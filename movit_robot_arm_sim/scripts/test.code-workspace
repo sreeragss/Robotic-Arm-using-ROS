@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "gripper test",
+			"path": "../../../../../Documents/PlatformIO/Projects/gripper test"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
